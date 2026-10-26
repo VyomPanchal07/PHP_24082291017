@@ -1,0 +1,6 @@
+Develop a PHP-based login application to demonstrate a SQL Injection
+vulnerability and prevent it using PDO Prepared Statements. The practical
+involves creating a login form, executing a vulnerable SQL query using user
+input, demonstrating how malicious input can manipulate the query, and
+10/08/2026 then securing the application using prepare(), parameter binding, and
+execute() to ensure that user input is treated as data rather than SQL code
