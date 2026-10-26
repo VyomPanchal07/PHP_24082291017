@@ -1,3 +1,11 @@
+Question : 
+Develop a PHP program to validate and filter student information submitted
+through an HTML form using appropriate PHP validation and filtering
+techniques. Validate fields such as name, email, and age, display suitable error
+messages for invalid or missing input, and process the submitted data only
+when all inputs are valid.
+
+
 <?php
 
 $name = "";
