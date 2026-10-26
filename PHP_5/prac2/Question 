@@ -1,0 +1,4 @@
+Create a PHP program to perform Create (Insert), Read (Display), Update,
+and Delete (CRUD) operations on student records in a MySQL database
+using PDO Prepared Statements. Execute SQL queries securely and display
+appropriate success or failure messages for each database operation.
