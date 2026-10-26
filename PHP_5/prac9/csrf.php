@@ -1,3 +1,11 @@
+Question :
+Develop a PHP-based web application to implement Cross-Site Request
+Forgery (CSRF) protection using a CSRF token. Generate and store a unique
+token in the user's session, include the token in an HTML form, and verify the
+submitted token before processing the request. Display appropriate messages
+for valid and invalid CSRF token verification.
+
+
 <?php
 session_start();
 
