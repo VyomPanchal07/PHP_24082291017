@@ -1,0 +1,6 @@
+Develop a PHP-based secure login system using session management.
+Authenticate the user using valid credentials, create a session after successful
+login, regenerate the session ID for security, restrict unauthorized access to
+protected pages using session validation, and properly destroy the session
+during logout. Display appropriate messages for successful login, invalid
+credentials, unauthorized access, and logout.
