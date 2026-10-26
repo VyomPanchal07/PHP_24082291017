@@ -1,3 +1,9 @@
+Create a PHP program to establish a secure connection with a MySQL
+database using PDO. Configure the connection by enabling exception-based
+error handling, setting the default fetch mode, and disabling emulated
+prepared statements. Display an appropriate message indicating whether the
+connection was established successfully.
+
 <?php
 
 $host = "localhost";
