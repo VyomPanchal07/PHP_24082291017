@@ -1,0 +1,6 @@
+Create a PHP program to retrieve student records from a MySQL database
+using PDO Prepared Statements. Implement parameter binding using
+bindParam() and bindValue() to securely bind values to SQL queries. Retrieve
+records using fetch() and fetchAll() methods, and implement exception
+handling using PDOException to handle database connection and query
+execution errors.
