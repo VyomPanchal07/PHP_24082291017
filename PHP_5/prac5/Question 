@@ -1,0 +1,6 @@
+Develop a PHP-based Student Feedback System that accepts student name
+and feedback through an HTML form and displays the submitted data
+securely. The practical demonstrates how directly displaying untrusted user
+input can lead to Cross-Site Scripting (XSS) and implements output encoding
+using PHP's htmlspecialchars() function to prevent the browser from
+interpreting user-supplied HTML or script content as executable code.
