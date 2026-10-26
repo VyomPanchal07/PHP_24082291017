@@ -1,0 +1,7 @@
+Develop a simple Student Management System using Laravel and MySQL to
+perform CRUD (Create, Read, Update, and Delete) operations. The application
+should allow users to add new student records, display existing records,
+update student details, and delete records.
+Implement basic security practices, including input validation, CSRF
+protection, SQL injection prevention using Eloquent ORM, and output
+escaping to ensure secure handling of student data.
