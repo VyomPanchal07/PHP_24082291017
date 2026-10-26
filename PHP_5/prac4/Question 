@@ -1,0 +1,5 @@
+Develop a Student Registration System using HTML, PHP, MySQL, and PDO.
+Design an HTML form to collect student information, establish a secure
+database connection, and store the submitted data in a MySQL database using
+PDO Prepared Statements with parameter binding. Display appropriate
+success or failure messages after form submission.
